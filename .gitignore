@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VSCode settings (entièrement)
+.vscode/
+
+# Build files
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.a
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python cache (si utilisé)
+__pycache__/
+*.pyc
